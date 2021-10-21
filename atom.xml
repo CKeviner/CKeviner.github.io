@@ -8,16 +8,9 @@
     <author>
       <name>kevin</name>
     </author>
-    <updated>2021-10-19T10:02:28.000Z</updated>
+    <updated>2020-08-13T13:45:48.000Z</updated>
     <category term="关键词1" />
     <category term="关键词2" />
-    <entry>
-        <id>https://ckevin.top/test/</id>
-        <title>test</title>
-        <link rel="alternate" href="https://ckevin.top/test/"/>
-        <content type="html"></content>
-        <updated>2021-10-19T10:02:28.000Z</updated>
-    </entry>
     <entry>
         <id>https://ckevin.top/computer-science/note/theme-shoka-doc/special/</id>
         <title>Step.4 主题特殊功能</title>

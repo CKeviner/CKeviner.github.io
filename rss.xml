@@ -10,17 +10,10 @@
         </author>
         <description>前端萌新</description>
         <language>zh-CN</language>
-        <pubDate>Tue, 19 Oct 2021 18:02:28 +0800</pubDate>
-        <lastBuildDate>Tue, 19 Oct 2021 18:02:28 +0800</lastBuildDate>
+        <pubDate>Thu, 13 Aug 2020 21:45:48 +0800</pubDate>
+        <lastBuildDate>Thu, 13 Aug 2020 21:45:48 +0800</lastBuildDate>
         <category term="关键词1" />
         <category term="关键词2" />
-        <item>
-            <guid isPermalink="true">https://ckevin.top/test/</guid>
-            <title>test</title>
-            <link>https://ckevin.top/test/</link>
-            <pubDate>Tue, 19 Oct 2021 18:02:28 +0800</pubDate>
-            <description><![CDATA[  ]]></description>
-        </item>
         <item>
             <guid isPermalink="true">https://ckevin.top/computer-science/note/theme-shoka-doc/special/</guid>
             <title>Step.4 主题特殊功能</title>
